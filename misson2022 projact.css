@@ -1,0 +1,150 @@
+h1{
+font-size: 100px;
+
+}
+.mis {
+color: #ec930d;
+
+}
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.twocontonar{
+    display: flex;
+}
+.shmonshmon{
+    width: 50%;
+padding-left: 5%;
+
+
+}
+.shmonshmon img{
+    width: 80%;
+
+
+}
+
+.linkbutton{
+text-decoration: none;
+background-image: linear-gradient(rgb(235, 28, 13), tomato); 
+padding: 15px 40px 20px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+
+}
+a{
+    margin-top: 20px;
+}
+.colore{
+    color: #f05f0b;
+}
+.taxtaline{
+    text-align: center;
+}
+
+
+.threecontonar{
+   width: 100%; 
+    padding: 5px 5px 5px 5px;
+    display: flex;
+}
+
+.three{
+
+
+    width: 33%;
+   border-radius: 15px;
+    margin: 50px;
+    padding: 20px;
+}
+.three img{
+    width: 50%;
+    
+}
+
+#dark{
+    background-color: #ece4d7;
+    
+}
+
+#skyblue{
+    background-color: #98cff3;
+ 
+}
+#pink{
+background-color: #e9b4d7;
+
+
+}
+
+.devloper{
+width: 100%;
+display: flex;
+
+
+}
+.divimag{
+width: 45%;
+margin: 50px;
+}
+
+.divtex{
+    width: 55%;
+    margin: 50px;
+}
+.divimag img{
+    width: 100%;
+}
+#albutton{
+margin-top: 70px;
+}
+
+#ptext{
+    margin-bottom: 70px;
+}
+.copysection{
+
+    display: flex;
+}
+.lasttext{
+    color: #f3870c;
+}
+.lastsection{
+    display: flex;
+    width: 100%;
+}
+.lastsection2{
+    width: 50%;
+}
+
+.lastdiv{
+    width: 50%;
+    margin-left: 350px;
+    align-items: center;
+}
+.lastdiv img{
+    width: 60%;
+}
+.divtext{
+   margin-left: 40px ;
+  
+}
+.footer{
+    text-align: center;
+    background-image: linear-gradient(rgb(10, 4, 61), rgb(5, 1, 14)); 
+}
+
+#lalnil{
+    color: #e70606;
+}
+#textwhite{
+    color: #ffffff;
+    margin-bottom: 100px;
+
+}
+
+
+
+
